@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resep Salad Sayur</title>
-    <link rel="stylesheet" href="salad.css">
+    <link rel="stylesheet" href="style5.css">
 </head>
 <body>
 

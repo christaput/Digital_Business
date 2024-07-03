@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Learn more about Go To Eat, your go-to source for discovering delicious recipes.">
     <title>About - Go To Eat</title>
-    <link rel="stylesheet" href="about.css">
+    <link rel="stylesheet" href="style2.css">
 </head>
 <body>
 
